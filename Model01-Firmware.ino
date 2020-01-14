@@ -31,20 +31,20 @@ KEYMAPS(
 
 
   [QWERTY] = KEYMAP_STACKED (
-    ___, ___,   ___,   ___,   ___,   ___,   ___,
-    ___, Key_Q, Key_W, Key_E, Key_R, Key_T, ___,
-    ___, Key_A, Key_S, Key_D, Key_F, Key_G,
-    ___, Key_Z, Key_X, Key_C, Key_V, Key_B, ___,
+    ___,   ___,   ___,   ___,   ___,   ___,   ___,
+    ___,   Key_Q, Key_W, Key_E, Key_R, Key_T, ___,
+    ___,   Key_A, Key_S, Key_D, Key_F, Key_G,
+    ___,   Key_Z, Key_X, Key_C, Key_V, Key_B, ___,
 
-    ___, ___, ___, ___,
+    ___,   ___, ___, ___,
     ___,
 
-    ___, ___,   ___,   ___,       ___,           ___,           ___,
-    ___, Key_Y, Key_U, Key_I,     Key_O,         Key_P,         Key_Equals,
-    Key_H, Key_J, Key_K,     Key_L,         Key_Semicolon, Key_Quote,
-    ___, Key_N, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
+    ___,   ___,   ___,   ___,       ___,           ___,           ___,
+    ___,   Key_Y, Key_U, Key_I,     Key_O,         Key_P,         Key_Equals,
+    Key_H, Key_J, Key_K, Key_L,     Key_Semicolon, Key_Quote,
+    ___,   Key_N, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
 
-    ___, ___, ___, ___,
+    ___,   ___, ___, ___,
     ___,
   ),
 
